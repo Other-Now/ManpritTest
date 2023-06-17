@@ -13,7 +13,7 @@ Front-end developers are in charge of:
 * Using JavaScript to implement interactivity and dynamic behaviour, such as animations, form validation, and user input processing.
 * Responsive design strategies are used to optimise the website for multiple screen sizes and devices.
 
-** Back-end ** :
+**Back-end** :
 The server, database, and application logic that power the website comprise the back-end, often known as the server-side. It handles front-end requests, processes data, and conducts other actions to offer the necessary functionality. Back-end technologies include programming languages such as Python, Java, PHP, and Ruby, as well as frameworks such as Node.js, Django, Ruby on Rails, and Laravel.
 
 Back-end developers are in charge of:
