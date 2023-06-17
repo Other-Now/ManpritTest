@@ -27,12 +27,12 @@ Communication between the front and back ends:
 Front-end and back-end components exchange data using standardised protocols such as HTTP (Hypertext Transfer Protocol). The front-end sends a request to the back-end server whenever a user interacts with it, for as by submitting a form or clicking a button. The server processes the request, performs the necessary operations, retrieves or updates data from the database, and sends a response back to the front-end. The front-end then renders the response received from the back-end and displays it to the user.
 
 ###  Question 2. What are tags in HTML? Explain the each category of tag with an Example.
-Ans: Tags in HTML are keywords that define the structure and content of a web page. They are enclosed in angle brackets (< and >) and usually come in pairs, such as <p> and </p>. There are different categories of tags in HTML, such as:
+Ans: Tags in HTML are keywords that define the structure and content of a web page. They are enclosed in angle brackets (< and >) and usually come in pairs, such as <p> and </ p>. There are different categories of tags in HTML, such as:
 
 * Document type declaration: This tag tells the browser what version of HTML the web page is using. For example, <!DOCTYPE html> is the tag for HTML5.
 * HTML: This tag wraps the entire web page content. It has two subtags: <head> and <body>.
-* Head: This tag contains information about the web page, such as the title, meta data, style sheets, scripts, etc. For example, <title>My Web Page</title> sets the title of the web page.
-* Body: This tag contains the main content of the web page, such as text, images, links, forms, etc. For example, <h1>Welcome to My Web Page</h1> creates a heading with the text "Welcome to My Web Page".
+* Head: This tag contains information about the web page, such as the title, meta data, style sheets, scripts, etc. For example, <title>My Web Page< / title> sets the title of the web page.
+* Body: This tag contains the main content of the web page, such as text, images, links, forms, etc. For example, <h 1>Welcome to My Web Page</ h 1> creates a heading with the text "Welcome to My Web Page".
 * Structural: These tags define the layout and organization of the web page content. They include tags such as <div>, <section>, <article>, <header>, <footer>, etc. For example, <div id="main">...</div> creates a division with the id "main".
 * Semantic: These tags provide meaning and context to the web page content. They include tags such as <p>, <em>, <strong>, <a>, <img>, etc. For example, <p>This is a paragraph.</p> creates a paragraph with the text "This is a paragraph".
 * List: These tags create ordered or unordered lists of items. They include tags such as <ol>, <ul>, <li>, etc. For example, <ul><li>Apple</li><li>Banana</li><li>Orange</li></ul> creates an unordered list of fruits.
